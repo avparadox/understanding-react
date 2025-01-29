@@ -20,5 +20,5 @@
     "allowSyntheticDefaultImports": true,
     "forceConsistentCasingInFileNames": true
   },
-  "include": ["App.tsx", "babel.ts"]
+  "include": ["src/**/*"]
 }
