@@ -4,10 +4,16 @@ This is a project to understand how React is parsed and transformed into JavaScr
 
 ### Quick Start 🚀
 
-1. Run the watcher:
+1. Install modules:
+
+   ```bash
+   pnpm install
+   ```
+
+2. Run the watcher:
 
    ```bash
    pnpm watch
    ```
 
-2. Open `src/App.tsx` and fiddle with the code.
+3. Open `src/App.tsx` and fiddle with the code.
